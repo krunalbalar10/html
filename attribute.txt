@@ -1,0 +1,21 @@
+width - for setting width of tags
+color - to change color 
+size - to change size
+align - to change alignment 
+cellpadding - for space between text and border - in mutliplication table of 5
+border - for border of table - in numbers
+rowspan  - for merging rows
+colspan - for merging column 
+bgcolor - for background color
+href - used in achor tag for links
+target - (_blank) - for links in new tab 
+src - for path of image 
+alt - for alternative text 
+type - for type of input 
+name - for name of input accessed in server 
+placeholder - for hint text in input tag 
+required - for compulsory input 
+method - for specifiying method of submit type 
+action - for specifiying page name to submit input 
+for - in label same as id of input tag 
+value - for giving name in buttons 

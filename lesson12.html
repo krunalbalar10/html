@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+</head>
+<body>
+    <h1 align="center">
+        Registration Form
+    </h1>
+    <hr>
+<form action="" method="post" enctype="multipart/form-data">
+    <table border="2" align="center" width="50%">
+
+        <tr >
+            <td colspan="2" align="center">
+                <h2>Register with us</h2>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <label for="txtname">
+                    Enter your name :
+                </label>
+            </td>
+            <td>
+                <input type="name" name="txtname" placeholder="Firstname Lastname" id="txtname" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Enter your contact number :
+            </td>
+            <td>
+                <input type="tel" name="txtcontact" id="txtcontact" placeholder="Valid phone number" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Enter your date of birth :
+            </td>
+            <td>
+                <input type="date" name="dob" id="dob" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Enter time :
+            </td>
+            <td>
+                <input type="time" name="time" id="time">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Select your gender :
+            </td>
+            <td>
+                <input type="radio" name="gender" id="" value="1">male
+                <input type="radio" name="gender" id="" value="0">female
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Select your hobbies :
+            </td>
+            <td>
+                <input type="checkbox" name="hobbies" id="" value="0">cricket
+                <input type="checkbox" name="hobbies" id="" value="1">Hockey
+                <input type="checkbox" name="hobbies" id="" value="2">football
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Selct your country :
+            </td>
+            <td>
+                <select name="country" id="">
+                    <option value="0">Select country</option>
+                    <option value="1">BHARAT</option>
+                    <option value="2">USA</option>
+                    <option value="3">RUSSIA</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Upload your image :
+            </td>
+            <td>
+                <input type="file" name="image" id="">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Enter your Address :
+            </td>
+            <td>
+                <textarea name="address" id="" cols="30" rows="10">This is my address</textarea>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Register">
+                <input type="reset" value="Cleaar All">
+            </td>
+        </tr>
+
+    </table>
+</form>
+    
+</body>
+</html>

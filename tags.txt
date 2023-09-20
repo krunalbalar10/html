@@ -1,0 +1,29 @@
+i - italic font
+b - bold font
+strike - overline 
+u - underline 
+pre - for proper formatting
+&nbsp; - for 1 space
+&emsp ; - for multiple space
+br - for new line 
+h1 - h6 - for heading 
+hr - for horizontal line 
+div - for group mutliple tags
+p - for grouping multple words/lines
+span - for grouping few words
+font - for styling font 
+table - for creating table
+tr - for table rows
+td - for table data (column)
+thead - for table head 
+th - for table heading
+tbody - for general table 
+tfoot - for table footer
+ul - for unorder List
+ol - for ordered list
+li - for list item 
+a - anchor tage ( for links )
+img - for images 
+input - for taking input from user 
+form - for submitting input 
+label - for label of input tag 
