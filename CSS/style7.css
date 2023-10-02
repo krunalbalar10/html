@@ -1,0 +1,30 @@
+*
+{
+        /* background-image: url('image1.avif'); */
+        background-size: cover; /* Scale the image to cover the entire body element */
+        background-position: center center; /* Position the image in the center */
+        background-repeat: no-repeat; /* Prevent image repetition */
+        background-attachment: fixed; /* Fixed background when scrolling (optional) */
+}
+
+.odd
+{
+        background-color: antiquewhite;
+}
+
+#even
+{
+        background-color: burlywood;
+}
+
+p
+{
+        font-size: 1.5rem;
+}
+
+*
+{
+        margin: 20px;
+        padding-left: 40px;
+        padding-right: 40px;
+}
