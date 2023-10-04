@@ -1,0 +1,29 @@
+#navout
+{
+    display: flex;
+    background-color: aqua;
+}
+
+#divout
+{
+    display: flex;
+    background-color: beige;
+    gap: 20px;
+    margin-left: 800px;
+}
+
+#ptxt
+{
+    padding-top: 30px;
+    font-size: 1.5rem;
+}
+
+#pimg
+{
+    border-radius: 60px;
+}
+
+#adiv
+{
+    padding-top: 60px;
+}

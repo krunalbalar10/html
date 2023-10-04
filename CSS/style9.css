@@ -1,0 +1,64 @@
+h1
+{
+    color: rgb(86, 52, 22);
+    /* background-color: rgb(230, 229, 152); */
+    font-size: 1.3rem;
+    padding-top: 20px;
+}
+
+#mergehead
+{
+    display: flex;
+    background-color: rosybrown;
+}
+
+#logoh
+{
+    display: flex;
+    gap: 20px;
+    /* background-color: rgb(195, 243, 243); */
+    padding: 20px;
+}
+
+#linkid
+{
+    /* background-color: rgb(195, 243, 243); */
+    padding-top: 60px;
+    margin-left: 700px;
+    width: 500px;
+
+}
+
+#linkid>a{
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+#navid
+{
+    background-color: rgb(239, 112, 112);
+    margin-top: 0px;
+    display: flex;
+    gap: 40px;
+}
+
+h2
+{
+    /* background-color: antiquewhite; */
+    font-size: 1.3rem;
+    margin: 20px;
+}
+
+.divpara
+{
+    /* background-color: rgb(38, 117, 137); */
+    margin: 10px;
+    
+}
+
+p
+{
+    font-size: 1.2rem;
+    margin: 20px;
+    background-color: rgb(241, 164, 135);
+}
