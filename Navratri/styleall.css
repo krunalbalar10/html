@@ -1,0 +1,116 @@
+*
+{
+    margin: 0px;
+}
+
+#nav13
+{
+    display: flex;
+}
+
+#nav11
+{
+    opacity: 0.9;
+    font-family: 'Patrick Hand SC', cursive;
+    color: #360f0f;
+    margin: 0px;
+    height: 100px;
+    width: 15%;
+    padding-top: 20px;
+    background-image: url(logo.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div11
+{
+    font-size: 1.3rem;
+    padding-top: 20px;
+}
+
+#nav12
+{
+    padding-top: 50px;
+    display: flex;
+    gap: 350px;
+    width: 1100px;
+    background-color: #360f0f;
+}
+
+#div12
+{
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+#div12>a{
+    padding-right: 40px;
+    color: rgb(206, 225, 241);
+    text-decoration: none;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+#sec11
+{
+   height: 500px;
+   background-image: url(head2.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#table11
+{
+    padding-top: 70px;
+    background-color: #360f0f;
+}
+
+#td11
+{
+    font-family: 'Salsa', cursive;
+    padding-top: 50px;
+    color: rgb(206, 225, 241);
+    font-size: 3.0rem;
+    width: 50%;
+}
+
+#p11
+{
+    margin-top: -25px;
+}
+
+#sec12
+{
+    background-color: yellow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: -25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#sec13
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 60px;
+    background-color: aqua;
+    padding-left: 100px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+}
+
+.div13
+{
+    background-color: blueviolet;
+   margin-right: 40px;
+   margin-left: 40px;
+}
