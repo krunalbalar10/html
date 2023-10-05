@@ -1,0 +1,19 @@
+#divout
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    background-color: bisque;
+    grid-auto-columns: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+.divin
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}

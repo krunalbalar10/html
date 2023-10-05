@@ -1,0 +1,13 @@
+#banner
+{
+    background-image: url(image1.avif);
+    background-size: cover;
+    height: 550px;
+    background-repeat: no-repeat;
+    font-size: 1.3rem;
+    color: rgb(232, 96, 96);
+    padding: 20px;
+    opacity: 0.9;
+    background-position: center;
+    
+}

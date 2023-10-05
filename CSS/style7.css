@@ -2,7 +2,7 @@
 {
         /* background-image: url('image1.avif'); */
         background-size: cover; /* Scale the image to cover the entire body element */
-        background-position: center center; /* Position the image in the center */
+        background-position: center; /* Position the image in the center */
         background-repeat: no-repeat; /* Prevent image repetition */
         background-attachment: fixed; /* Fixed background when scrolling (optional) */
 }
