@@ -84,33 +84,87 @@
 
 #p11
 {
-    margin-top: -25px;
+    margin-top: -10px;
 }
 
 #sec12
 {
-    background-color: yellow;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    margin-top: -25px;
+    background-color: rgb(237, 196, 12);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: -1130px;
+    box-shadow: rgba(0, 0, 0, 0.09) 0px 2px 1px,
+     rgba(0, 0, 0, 0.09) 0px 4px 2px, 
+     rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
     margin-left: 200px;
     margin-right: 200px;
+    border-color: rgb(206, 225, 241);
+    border-radius: 40px;
 }
 
 #sec13
 {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 60px;
-    background-color: aqua;
-    padding-left: 100px;
-    /* margin-left: 20px;
-    margin-right: 20px; */
+   display: grid;
+   grid-template-columns: auto auto auto;
+   margin-top: 0px;
+   background-color: #360f0f;
+}
+
+.button-62 {
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: 'Salsa', cursive;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.0;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+  transition: box-shadow .2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  margin-bottom: 10px;
+}
+
+.button-62:not([disabled]):focus {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+
+.button-62:not([disabled]):hover {
+  box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
 }
 
 .div13
 {
-    background-color: blueviolet;
-   margin-right: 40px;
-   margin-left: 40px;
+    /* background-color: #FF9A5A; */
+    margin-left: 140px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-top: 150px;
+}
+
+h1
+{
+    padding-top: 10px;
+    
+}
+
+p
+{
+    font-size: 1.3rem;
+    color: rgb(206, 225, 241);
+    padding-left: 30px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+img{
+    width: 50%;
 }
