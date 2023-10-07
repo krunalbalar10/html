@@ -1,0 +1,39 @@
+p
+{
+    padding: 20px;
+    font-size: 1.3rem;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+
+div
+{
+    margin: 40px;
+}
+
+a:link
+{
+    color: red;
+}
+
+a:visited
+{
+    color: green;
+}
+
+a:active
+{
+    color: black;
+}
+
+a:hover
+{
+    color: blueviolet;
+    background-color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p:hover{
+    background-color: bisque;
+}
