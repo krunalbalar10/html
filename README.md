@@ -13,3 +13,5 @@
 } -->
 ----------------------------------------------
 <!-- how can i add social media symbol in css -->
+------------------------------------------
+<!-- how to make effect in one tag using css -->
