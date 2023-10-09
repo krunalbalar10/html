@@ -295,12 +295,53 @@ img {
 {
     padding-left: 200px;
 }
+#sec24
+{
+    background-color: #360f0f;
+}
+
+#sec23
+{
+    padding-top: 80px;
+    background-image: url(head2.png);
+    background-repeat: no-repeat;
+    height: 400px;
+}
 
 .nav21
 {
-    background-color: #FF9A5A;
-    margin-left: 250px;
-    margin-right: 250px;
+    background: linear-gradient(to bottom right, #431c1cde, rgb(237, 196, 12) );
+    margin-left: 280px;
+    margin-right: 260px;
     border-radius: 20px;
     padding-bottom: 10px;
+    
+}
+
+.nav21>p
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#div26 {
+    padding-top: 70px;
+    padding-bottom: 20px;
+    background-color: #360f0f;
+}
+
+.p22 {
+    font-size: 1.2rem;
+    color: rgb(206, 225, 241);
+    padding-left: 80px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+#p23 {
+    font-size: 1.2rem;
+    color: rgb(206, 225, 241);
+    padding-left: 41px;
+    padding-bottom: 0px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
