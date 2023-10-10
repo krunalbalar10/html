@@ -15,3 +15,6 @@
 <!-- how can i add social media symbol in css -->
 ------------------------------------------
 <!-- how to make effect in one tag using css -->
+-----------------------------------------
+<!-- when we can use align items and align justify in css -->
+-------------------------------------------------------
