@@ -40,7 +40,7 @@
 
 #div12>a {
     padding-right: 40px;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     text-decoration: none;
 }
 
@@ -68,7 +68,7 @@
 #td11 {
     font-family: 'Salsa', cursive;
     padding-top: 50px;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     font-size: 3.0rem;
     width: 50%;
 }
@@ -89,7 +89,7 @@
 /* rgb(237, 196, 12) */
 #sec12:hover {
     background-color: #360f0f;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
 }
 
 #sec13 {
@@ -149,7 +149,7 @@
 
 .p12 {
     font-size: 1.2rem;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     padding-left: 30px;
     padding-bottom: 0px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -164,7 +164,7 @@
 }
 
 #h11 {
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 }
 
 .h12 {
@@ -249,10 +249,11 @@
     padding-top: 30px;
 }
 
+
 #p21 {
     padding-left: 50px;
     font-family: 'Patrick Hand SC', cursive;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     text-shadow: 2px 2px 5px rgba(110, 203, 229, 0.5);
 }
 
@@ -276,13 +277,13 @@
 
 #div23 {
     background-color: #360f0f;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     font-family: 'Patrick Hand SC', cursive;
     padding-right: 40px;
     margin-right: 150px;
     padding-top: 100px;
     padding-bottom: 50px;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 #div24 {
@@ -334,7 +335,7 @@
 
 .p22 {
     font-size: 1.2rem;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     padding-left: 80px;
     padding-bottom: 0px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -342,7 +343,7 @@
 
 #p23 {
     font-size: 1.2rem;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     padding-left: 41px;
     padding-bottom: 0px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -371,7 +372,7 @@
 
 
     font-family: 'Patrick Hand SC', cursive;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     font-size: 1.5rem;
 }
 
@@ -432,14 +433,14 @@
     transform: rotate(315deg);
     font-family: 'Patrick Hand SC', cursive;
     font-size: 3rem;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 
 }
 
 #div34 {
     font-family: 'Patrick Hand SC', cursive;
     font-size: 4rem;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 
 }
 
@@ -448,7 +449,7 @@
     transform: rotate(45deg);
     font-family: 'Patrick Hand SC', cursive;
     font-size: 3rem;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 
 }
 
@@ -516,7 +517,7 @@
 
     font-family: 'Patrick Hand SC', cursive;
     font-size: 3rem;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 
 }
 
@@ -539,7 +540,7 @@
     padding-bottom: 50px;
     font-family: 'Patrick Hand SC', cursive;
     font-size: 4rem;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
 }
 
 #nav43 {
@@ -579,7 +580,7 @@
 }
 
 .p42 {
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     font-size: 1.6rem;
     font-family: 'DM Serif Display', serif;
 }
@@ -592,7 +593,7 @@
 
 .p43 {
     font-size: 1.2rem;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
     padding-left: 80px;
     padding-bottom: 0px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
@@ -610,7 +611,7 @@
 #div52 {
     margin-right: 385px;
     font-size: 1.5rem;
-    color: rgb(206, 225, 241);
+    color: rgb(253, 253, 253);
 }
 
 #div51 {
@@ -630,14 +631,14 @@
 #p51 {
     padding-top: 50px;
     padding-bottom: 10px;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     font-size: 1.6rem;
     font-family: 'DM Serif Display', serif;
 }
 
 #div54 {
     padding-top: 10px;
-    color: rgb(155, 237, 237);
+    color: rgb(253, 253, 253);
     font-size: 1.6rem;
     font-family: 'DM Serif Display', serif;
 }
@@ -665,6 +666,7 @@
     margin-bottom: 100px;
     margin-right: 100px;
     border-radius: 20px;
+    font-family: 'Nanum Myeongjo', serif;
 }
 
 #div56>p {
@@ -673,4 +675,219 @@
 
 #p52>img {
     height: 400px;
+}
+
+#sec61 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    background-color: #360f0f;
+}
+
+#div62 {
+    margin-right: 385px;
+    font-size: 1.5rem;
+    color: rgb(253, 253, 253);
+}
+
+#div61 {
+    width: 30%;
+}
+
+#div61>img {
+    width: 100%;
+    margin: 20px;
+}
+
+#div63>a {
+    /* margin: 20px; */
+    padding-right: 40px;
+}
+
+#sec62 {
+    background-image: url(head2.png);
+    height: 450px;
+
+}
+
+#p61 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 3rem;
+    color: rgb(253, 253, 253);
+    font-size: 2.5rem;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#sec63 {
+    background-color: #360f0f;
+    padding-top: 50px;
+}
+
+#p62 {
+    margin-top: 30px;
+    background-color: #360f0f;
+    width: 50%;
+    padding: 20px;
+    margin-left: 300px;
+    color: rgb(253, 253, 253);
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#p63>img {
+    padding-top: 30px;
+    width: 30%;
+    padding-left: 450px;
+
+}
+
+.h161 {
+    color: rgb(253, 253, 253);
+    font-size: 1.6rem;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#sec64 {
+    background-color: #360f0f;
+}
+
+.button-81 {
+    background-color: #fff;
+    border: 0 solid #e2e8f0;
+    border-radius: 20px;
+    box-sizing: border-box;
+    color: #0d172a;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1;
+    padding: 1rem 1.6rem;
+    text-align: center;
+    text-decoration: none #0d172a solid;
+    text-decoration-thickness: auto;
+    transition: all .1s cubic-bezier(.4, 0, .2, 1);
+    box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-81:hover {
+    background-color: #1e293b;
+    color: #fff;
+}
+
+@media (min-width: 768px) {
+    .button-81 {
+        font-size: 1.125rem;
+        padding: 0.7rem 2rem;
+    }
+}
+
+#sec71 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    background-color: #360f0f;
+}
+
+#div72 {
+    margin-right: 385px;
+    font-size: 1.5rem;
+    color: rgb(253, 253, 253);
+}
+
+#div71 {
+    width: 30%;
+}
+
+#div71>img {
+    width: 100%;
+    margin: 20px;
+}
+
+#div73>a {
+    /* margin: 20px; */
+    padding-right: 40px;
+}
+
+#sec72 {
+    background-color: #360f0f;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+#sec72>div>img {
+    width: 100%;
+}
+
+#p71 {
+    color: rgb(253, 253, 253);
+    font-size: 2.5rem;
+    font-family: 'DM Serif Display', serif;
+
+}
+
+#sec73 {
+    padding-top: 50px;
+    background-color: #360f0f;
+}
+
+#sec74
+{
+    padding-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+
+#p72>img
+{
+    width: 300%;
+    height: 300px;
+}
+
+#p73>img
+{
+    width: 30%;
+    height: 200px;
+}
+
+#div74
+{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#p74
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    color: rgb(253, 253, 253);
+    font-family: 'Nanum Myeongjo', serif;
+
+}
+
+#sec75
+{
+    background-color: #360f0f;
+}
+
+.p75
+{
+    color: rgb(253, 253, 253);
+    font-size: 1.6rem;
+    font-family: 'DM Serif Display', serif;
+
 }
