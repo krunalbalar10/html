@@ -1,0 +1,245 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar {
+    background-color: #C38154;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo_content {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.8rem;
+}
+
+#links {
+    padding: 20px;
+}
+
+#links>a {
+    margin-left: 30px;
+    font-size: 2rem;
+    text-decoration: none;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: yellow;
+
+}
+
+#banner {
+    background-image: url("../images/banner1.jpg");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#about_us {
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+    display: flex;
+    gap: 50px;
+    font-size: 1.3rem;
+}
+
+#about_img {
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+#about_us>div>h1 {
+    margin-bottom: 10px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 3rem;
+}
+
+#about_us>div>p {
+    font-family: 'Poppins', sans-serif;
+    /* text-transform: ; */
+}
+
+#product_div {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 30px;
+}
+
+#products>h1 {
+    margin-bottom: 30px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 3rem;
+}
+
+#products {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+#product_div>div {
+    background-color: #C38154;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.product_img {
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.product_content {
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+}
+
+#offers {
+    display: flex;
+    margin-left: 70px;
+    margin-bottom: 150px;
+    margin-right: 70px;
+    font-size: 1.5rem;
+    gap: 30px;
+}
+
+.single_offer {
+    display: flex;
+    background-color: #C38154;
+    align-items: center;
+    padding: 20px;
+    border-radius: 30px;
+    gap: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#offers_h {
+    margin-top: 150px;
+    margin-bottom: 30px;
+    font-size: 3rem;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#contact_heading {
+    font-size: 3rem;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    text-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#contact_us {
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#contact_content
+{
+    display: grid;
+    grid-template-columns: 1fr  1fr;
+}
+.contact_form {
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.input_box {
+    font-family: 'Poppins', sans-serif;
+    height: 30px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-size: 1.1rem;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+
+.form_label {
+    margin-top: 20px;
+}
+
+
+
+/* CSS */
+.button-18 {
+ align-items: center;
+ background-color: #C38154;
+ border: 0;
+ border-radius: 100px;
+ box-sizing: border-box;
+ color: #ffffff;
+ cursor: pointer;
+ display: inline-flex;
+ font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+ font-size: 16px;
+ font-weight: 600;
+ justify-content: center;
+ line-height: 20px;
+ max-width: 480px;
+ min-height: 40px;
+ min-width: 0px;
+ overflow: hidden;
+ padding: 0px;
+ padding-left: 20px;
+ padding-right: 20px;
+ text-align: center;
+ touch-action: manipulation;
+ transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+ user-select: none;
+ -webkit-user-select: none;
+ vertical-align: middle;
+}
+
+.button-18:hover,
+.button-18:focus { 
+ background-color: #b85e22;
+ color: #ffffff;
+}
+
+.button-18:active {
+ background: #8a4212;
+ color: rgb(255, 255, 255, .7);
+}
+
+.button-18:disabled { 
+ cursor: not-allowed;
+ background: rgba(0, 0, 0, .08);
+ color: rgba(0, 0, 0, .3);
+}
+
+#footer
+{
+    background-color: #C38154;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;    
+}
+#footer>div>a:link , #footer>div>a:visited
+{
+    color: white;
+    text-decoration: none;
+}
