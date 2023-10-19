@@ -1,0 +1,40 @@
+p#dotted
+{
+    outline-style: dotted;
+}
+
+p#dashed
+{
+    outline-style: dashed;
+    outline-width: 5px  ;
+    outline-color: burlywood;
+    border: 2px solid gray;
+}
+p#solid
+{
+    outline-style: solid;
+    outline: thick ridge pink;
+}
+
+p#double
+{
+    outline: 1px solid red;
+    outline-offset: 15px;
+    border: 1px solid gainsboro;
+    width: 50%;
+    text-align: center;
+
+}
+
+p{
+    margin-top: 50px;
+}
+
+.b
+{
+    /* vertical-align: text-top;
+    vertical-align: baseline;
+    vertical-align: text-bottom;
+    vertical-align: super; */
+    vertical-align: sub;
+}
